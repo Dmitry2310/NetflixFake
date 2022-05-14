@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NetflixFake/static/css/main.b4152c9e.css",
+    "main.js": "/NetflixFake/static/js/main.a2399ab2.js",
+    "static/js/787.5cc5fcde.chunk.js": "/NetflixFake/static/js/787.5cc5fcde.chunk.js",
+    "index.html": "/NetflixFake/index.html",
+    "main.b4152c9e.css.map": "/NetflixFake/static/css/main.b4152c9e.css.map",
+    "main.a2399ab2.js.map": "/NetflixFake/static/js/main.a2399ab2.js.map",
+    "787.5cc5fcde.chunk.js.map": "/NetflixFake/static/js/787.5cc5fcde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4152c9e.css",
+    "static/js/main.a2399ab2.js"
+  ]
+}
